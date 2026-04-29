@@ -150,5 +150,8 @@
   "bugs": {
     "url": "https://github.com/orbita-pos/inariwatch-vscode/issues"
   },
-  "homepage": "https://inariwatch.com"
+  "homepage": "https://inariwatch.com",
+  "dependencies": {
+    "@inariwatch/capture": "^0.10.2"
+  }
 }
